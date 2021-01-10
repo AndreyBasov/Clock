@@ -10,5 +10,5 @@ React-компонент выбора времени
     * Для запуска: `npm start`
     * Для тестирования: `npm test`
     
-Выполнено с использованием TypeScript и React
+Выполнено с использованием TypeScript и React (+ ESLint)
 
